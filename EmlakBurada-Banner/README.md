@@ -1,0 +1,1 @@
+Controller classı içerisinde feign client ile client oluşturuldu
